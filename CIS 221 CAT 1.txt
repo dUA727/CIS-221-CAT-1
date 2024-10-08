@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>CIS 221 CAT 1</title>
+    <style type="text/css">
+        button{
+            text-align: center;
+            color: black;
+            background-color: rgb(161, 88, 196);
+            display: block;
+            border-radius: 10px; 
+            margin: auto;
+            font-size: 40px;
+            
+        }
+        h1{
+            text-align: center;
+            color: blueviolet;
+            text-decoration: underline;
+        }
+        
+        h2{
+            text-align: center;
+            color: purple;
+            text-decoration: underline;
+        }
+        table{
+            text-align: center;
+            color: purple;
+            margin: auto;
+        }
+        img{
+            
+            height: 500px;
+            width: 500px;
+            text-align: center;
+            margin: auto;
+            display: block;
+        }
+        p{
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body style="background-color: darkkhaki;">
+    <hr style="color: black;" />
+    <button style="padding: 25px;">CIS 221</button>
+    <h1>Home Of Imports</h1>
+    <hr style="color: aqua;">
+    <img src ="C:\Users\DENNIS\A14 image\7e7bbcc570cf712cfbd0566726d8cb89.jpg">
+
+     
+     <p><b>dUA Solution</b>delights in reliving you of the effort put into imports logistics.We are here <br />
+        to redefine this process for you in a simpler way.Our simpler way is by allowing you to <br />
+        relax as we do the sourcing for you,do purchases and handle all the paper work required by <br />
+        customs in both country of origin and destination.To add nto this,we deliver it right at your <br />
+        door step.
+     </p>
+        <br />
+        <h2>Countries Covered :</h2> 
+        <table>
+            <tr>
+                <td>
+                    CHINA
+                </td>
+            <td>
+                United Kingdom
+            </td>
+            <td>
+                United States Of America
+            </td>
+            </tr>
+
+        </table>
+        <button style="font-size: 15px;" border-radius="25px" padding="25px"><b>🚢PLACE AN ORDER ?</b></button>
+        <br />
+        <p>Designed and coded by <b>dUA</b></p>
+</body>
+</html>
